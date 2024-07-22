@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://moonshotbot.app/images/bot.png" width="800px" alt="Mem0 Logo">
+  <img src="https://moonshotbot.app/images/bot.png" width="500px" alt="Mem0 Logo">
 </p>
 
 # Dex Screener Moonshot & Pump Fun Sniper Bot
