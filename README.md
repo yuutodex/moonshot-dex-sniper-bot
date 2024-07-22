@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://moonshotbot.app/images/bot.png" width="500px" alt="Mem0 Logo">
-</p>
-
 # Dex Screener Moonshot & Pump Fun Sniper Bot
 
 **The best sniperbot for Moonshot and PumpFun**
@@ -17,6 +13,11 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 > [!NOTE]
 > This is provided as is, for learning purposes.
+
+<p align="center">
+  <img src="https://moonshotbot.app/images/bot.png" width="500px" alt="Mem0 Logo">
+</p>
+
 
 [![Python](https://badgen.net/badge/icon/python)](https://python.org)
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
